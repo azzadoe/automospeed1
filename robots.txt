@@ -4,5 +4,12 @@ User-agent: *
 Disallow:
 
 Sitemap: https://automospeed.web.id/sitemap.xml
+
+
+Sitemap: https://automospeed.web.id/post-sitemap.xml
+Sitemap: https://automospeed.web.id/page-sitemap.xml
+Sitemap: https://automospeed.web.id/category-sitemap.xml
+Sitemap: https://automospeed.web.id/post_tag-sitemap.xml
+
 # ---------------------------
 # END YOAST BLOCK
